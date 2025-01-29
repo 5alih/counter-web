@@ -1,0 +1,27 @@
+body{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	font-weight: 1000;
+	background-color: rgb(20, 20, 20);
+	color: goldenrod;
+	text-align: center;
+	outline-style: none;
+}
+
+button{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 7px;
+	font-size: 22px;
+	background-color: rgb(218, 165, 32);
+	color: black;
+	border: none;
+	border-radius: 10px;
+}
+
+button:hover{
+	background-color: rgb(248, 195, 62);
+}
+
+button:active{
+	background-color: rgb(188, 135, 2);
+}
